@@ -1,5 +1,6 @@
 # Pacman
 This is a game similar to Pacman.
+
 About the game:
   Potter is the name element the user car move with the arrows (up,down,rigth,left). 
   Gnome and Traal are the two monsters that are chaising Potter. 
